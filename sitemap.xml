@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+            
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://dummy-gym.appspot.com/</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-about-us.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-classes.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-classes-detail.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-staff.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-pricing.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-contact-us.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-contact-us.jsp</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dummy-gym.appspot.com/demo-gym-staff-detail.html</loc>
+  <lastmod>2018-09-10T13:07:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

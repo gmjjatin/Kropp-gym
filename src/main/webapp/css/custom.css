@@ -1,0 +1,14 @@
+/* Add here all your CSS customizations */
+.packages.section-background.custom-squared-section.custom-small-section-padding.custom-overlay-style-1 {
+    padding: 30px 30px !important;
+    clear: both;
+}
+
+.social-icons {
+    list-style: none !important;
+    display: ruby-base-container !important;
+}
+
+.social-icons li {
+    padding: 10px 10px !important;
+}
