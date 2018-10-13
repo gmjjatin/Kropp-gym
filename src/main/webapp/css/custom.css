@@ -12,3 +12,16 @@
 .social-icons li {
     padding: 10px 10px !important;
 }
+/*searchbar*/
+#searchBar {
+	color: orange !important;
+	padding: .55em 0 !important;
+	
+}
+.search {
+	align-self: auto !important;
+}
+#customBtn {
+	background-color: orange !important;	
+}
+/*searchbarEnd*/

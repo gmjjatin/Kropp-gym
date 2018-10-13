@@ -30,3 +30,12 @@
 // 	  //
 // });
 
+
+
+$(document).ready(function(){
+    $('#searchBar').keypress(function(e){
+      if(e.keyCode==13)
+      $('#customBtn').click();
+    });
+});
+
